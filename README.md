@@ -1,6 +1,9 @@
 Brain Boost Quiz App
+
 Overview
+
 Brain Boost is an interactive quiz application built with React that challenges users with questions across multiple knowledge domains. The app features a clean, modern UI with engaging animations and a timed quiz experience.
+
 Features
 
 Multiple Knowledge Domains: Test your knowledge in General Knowledge, Science, Technology, Entertainment, and Trivia
